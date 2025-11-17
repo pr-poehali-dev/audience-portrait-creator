@@ -94,7 +94,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center animate-fade-in">
             <h2 className="text-5xl font-bold mb-6 bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-              Уникальные изделия из эпоксидной смолы
+              Декор на любой вкус
             </h2>
             <p className="text-xl text-muted-foreground mb-8">
               Украшения для детских комнат, оригинальные подарки и стильные мелочи для дизайна интерьера
