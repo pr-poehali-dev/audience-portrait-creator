@@ -80,7 +80,7 @@ const Index = () => {
       <header className="border-b bg-white/80 backdrop-blur-sm sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4">
           <nav className="flex items-center justify-between">
-            <h1 className="text-2xl font-bold text-primary">ResinArt</h1>
+            <h1 className="text-2xl font-bold text-primary">Подарок? Легко!</h1>
             <div className="flex gap-6">
               <a href="#catalog" className="text-foreground/80 hover:text-primary transition-colors">Каталог</a>
               <a href="#audience" className="text-foreground/80 hover:text-primary transition-colors">О нас</a>
@@ -284,7 +284,7 @@ const Index = () => {
 
       <footer className="bg-foreground/5 py-8">
         <div className="container mx-auto px-4 text-center text-muted-foreground">
-          <p>© 2024 ResinArt. Изделия из эпоксидной смолы ручной работы</p>
+          <p>© 2024 Подарок? Легко! Изделия из эпоксидной смолы ручной работы</p>
         </div>
       </footer>
     </div>
